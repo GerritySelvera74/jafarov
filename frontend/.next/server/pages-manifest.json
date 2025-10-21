@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/manage-roles": "pages/manage-roles.js",
+  "/game-control": "pages/game-control.js",
+  "/manage-users": "pages/manage-users.js"
+}
