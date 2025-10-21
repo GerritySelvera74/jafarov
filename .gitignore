@@ -7,3 +7,6 @@ yarn-error.log
 .vscode/
 .DS_Store
 Thumbs.db
+node_modules/
+.env
+dist/
